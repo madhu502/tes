@@ -1,0 +1,185 @@
+.page-container {
+  background-size: cover;
+  background-position: center;
+  color: white;
+}
+
+.hero-container {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 20px 40px;
+  height: 100vh;
+}
+
+.text-container {
+  max-width: 50%;
+  margin-top: 0;
+}
+
+.title {
+  font-size: 48px;
+  font-weight: bold;
+  margin: 0 0 20px 0;
+}
+
+.subtitle {
+  font-size: 18px;
+  margin: 0 0 20px 0;
+}
+
+.see-more-button {
+  background-color: #4b0082;
+  color: white;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  font-size: 16px;
+  margin-bottom: 20px;
+}
+
+.google-play-icon {
+  width: 200px;
+  margin-top: 20px;
+  cursor: pointer;
+}
+
+.mobile-app-image {
+  width: 40%;
+  border-radius: 10px;
+}
+
+.subjects-section {
+  text-align: center;
+  padding: 40px;
+}
+
+.subjects-title {
+  font-size: 36px;
+  font-weight: bold;
+  margin-bottom: 20px;
+}
+
+.subjects-buttons {
+  display: flex;
+  justify-content: center;
+  gap: 15px;
+  margin-bottom: 20px;
+}
+
+.subject-button {
+  background-color: #9370db;
+  color: white;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  font-size: 16px;
+}
+
+.subjects-content {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  margin-top: 20px;
+}
+
+.subjects-image {
+  width: 400px;
+  height: 200px;
+}
+
+.subjects-info {
+  text-align: left;
+  font-size: 18px;
+}
+
+.premium-section {
+  text-align: center;
+  padding: 40px;
+}
+
+.premium-title {
+  font-size: 36px;
+  font-weight: bold;
+  margin-bottom: 20px;
+}
+
+.premium-options {
+  display: flex;
+  justify-content: center;
+  gap: 20px;
+}
+
+.premium-option {
+  background-color: rgba(255, 255, 255, 0.1);
+  padding: 20px;
+  border-radius: 10px;
+}
+
+.premium-option h3 {
+  font-size: 24px;
+  margin-bottom: 10px;
+}
+
+.premium-option p {
+  font-size: 20px;
+  margin-bottom: 10px;
+}
+
+.premium-option button {
+  background-color: #4b0082;
+  color: white;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  font-size: 16px;
+}
+
+.faq-section {
+  padding: 40px;
+  text-align: left;
+}
+
+.faq-title {
+  font-size: 36px;
+  font-weight: bold;
+  margin-bottom: 20px;
+}
+
+.faq-content {
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+}
+
+.faq-item h3 {
+  font-size: 24px;
+  margin-bottom: 10px;
+}
+
+.faq-item p {
+  font-size: 18px;
+}
+
+.contacts-section {
+  padding: 40px;
+  text-align: left;
+}
+
+.contacts-title {
+  font-size: 36px;
+  font-weight: bold;
+  margin-bottom: 20px;
+}
+
+.contacts-content p {
+  font-size: 18px;
+}
+
+.social-icons {
+  display: flex;
+  gap: 20px;
+}
